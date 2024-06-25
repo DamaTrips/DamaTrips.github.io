@@ -21,9 +21,6 @@ author: Alexandre Costa
 
 navbar-links:
   About Us: "aboutus"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
