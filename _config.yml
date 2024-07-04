@@ -48,8 +48,6 @@ round-avatar: true
 social-network-links:
   email: "damatrips@gmail.com"
   facebook: damatrips
-  twitter: damatrips
-  youtube: "@damatrips"
   whatsapp: +351968572589
 #  medium: yourname
 #  reddit: yourname
@@ -250,7 +248,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Europe/Lisbon"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
